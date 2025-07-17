@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TastyNest : Home</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Abel&family=Pacifico&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <style>
+        body{
+            background: linear-gradient(150deg,#86b4f5,rgb(232, 240, 251) 60%,pink);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+        .recipe_main{
+            font-family: "Abel", sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="hed_logo"> <a class="logo_link" href="index.html"> TastyNest</a></div>
+        <nav>
+            <a href="home.html" class="nav_list">Home</a>
+            <a href="categories.html" class="nav_list">categories</a>
+            <a href="about.html" class="nav_list">About Us</a>
+            <a href="contact.html" class="nav_list">Contact</a>
+        </nav>
+    </header>
+    <div class="search_area">
+        <input class="searchbar" placeholder="Search recipes..." type="search">
+        <button id="submit" onclick="searchByName()"><i class="fa-solid fa-magnifying-glass"></i></button>
+    </div>
+    <div class="recipe_main main_hide">
+        <div class="detail_cecipe hide_recipe">
+            <p class="ins_title"></p>
+            <table class="ingredients-table">
+
+            </table>
+            <div class="instructions ">
+                <p class="ing_title"></p>
+                <p class="ins"></p>
+                <button class="tutorial_buttton btn_hide"><a class="tutorial" ><i class="fa-solid fa-circle-play"></i></a></button>
+            </div>
+        </div>
+        <div class="recipe_image_main hide_img">
+            <p class="rec_name"></p>
+            <p class="recip_cat"></p>
+            <p class="rec_area"></p>
+            <img id="thumb" alt="img">
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+
+
