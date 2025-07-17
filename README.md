@@ -21,3 +21,4 @@ Welcome to **TastyNest**, your cozy corner for discovering mouth-watering recipe
 We believe cooking should be joyful and accessible. TastyNest removes the hassle of searching for recipes scattered across the web — all your favorite dishes and hidden gems are just a few clicks away!
 
 ---
+![image alt](https://github.com/Prabod-Sandaruwan/TastyNest/blob/master/images/Screenshot%201.png?raw=true)
