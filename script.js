@@ -144,7 +144,7 @@ async function filter(cat_name) {
         meal_name.classList.add("filter_name");
         meal_name.textContent = item.strMeal;
         const filter_button = document.createElement("div");
-    
+        filter_button.classList.add("filter_button");
         const find_from_filter = document.createElement("button");
         find_from_filter.classList.add("find_from_filter");
         find_from_filter.id = item.strMeal;
