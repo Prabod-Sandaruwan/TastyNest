@@ -21,5 +21,17 @@ Welcome to **TastyNest**, your cozy corner for discovering mouth-watering recipe
 We believe cooking should be joyful and accessible. TastyNest removes the hassle of searching for recipes scattered across the web — all your favorite dishes and hidden gems are just a few clicks away!
 
 ---
+<<<<<<< HEAD
 ## 💻 Why TastyNest?
+=======
+![image alt](https://github.com/Prabod-Sandaruwan/TastyNest/blob/master/images/Screenshot%201.png?raw=true)
+![image alt](https://github.com/Prabod-Sandaruwan/TastyNest/blob/master/images/Screenshot%202.png?raw=true)
+![image alt](https://github.com/Prabod-Sandaruwan/TastyNest/blob/master/images/Screenshot%203.png?raw=true)
+![image alt](https://github.com/Prabod-Sandaruwan/TastyNest/blob/master/images/Screenshot%204.png?raw=true)
+![image alt](https://github.com/Prabod-Sandaruwan/TastyNest/blob/master/images/Screenshot%205.png?raw=true)
+![image alt](https://github.com/Prabod-Sandaruwan/TastyNest/blob/master/images/Screenshot%206.png?raw=true)
+![image alt](https://github.com/Prabod-Sandaruwan/TastyNest/blob/master/images/Screenshot%207.png?raw=true)
+![image alt](https://github.com/Prabod-Sandaruwan/TastyNest/blob/master/images/Screenshot%208.png?raw=true)
+![image alt](https://github.com/Prabod-Sandaruwan/TastyNest/blob/master/images/Screenshot%209.png?raw=true)
+>>>>>>> 23d09e58963dec099d44c0d57039d8fa1f682774
 
